@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>When a mine owner thinks that he's above the law and continues to utilize slave labor to keep his mines running, Barnabas, a former Ranger One, must fight for justice.</p>"; 
