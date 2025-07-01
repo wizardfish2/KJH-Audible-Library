@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>The Empress almost has control of the world she was promised and soon her enemies will not be able to thwart her. There is just one man keeping her from her prize: Kaiyer.</p> <p>Contains mature themes.</p>"; 
