@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Book 2 of an epic Xianxia Cultivation Progression Fantasy Series, from debut author Plutus.</b></p> <p>Features detailed world-building, slice of life elements, three-dimensional characters, a unique progression system starring an MC who gains power through gifting things to others, and so much more!</p>"; 
