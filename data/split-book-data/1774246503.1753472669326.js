@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>After surviving Mistress Nava’s wrath, Elorion is banished from Sanctuary and everything he holds dear. </b></p> <p>He finds himself on an impossible quest to retrieve something from Lord Darius’s vault for the Head Mistress in hopes of bringing everyone back together.</p>"; 
