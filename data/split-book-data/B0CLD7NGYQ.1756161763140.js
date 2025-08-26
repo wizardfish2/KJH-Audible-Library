@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Nico's understanding of the world continues to grow.</b></p> <p>He has encountered Draconis and realizes he can't count on help from the great wyrm. Now, Nico must learn to ride the storm and add his second class. Evolution awaits, as do new threats and new allies.</p>"; 
