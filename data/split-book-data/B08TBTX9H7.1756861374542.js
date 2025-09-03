@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>The action ramps up with Dean struggling to defeat the Minotaur's Maze. Team Core will push him to a new level, and that blasted Thero plots in the shadows. </p> <p>Join Dean and Team Ola as they strive to save Planet Oakley.</p>"; 
