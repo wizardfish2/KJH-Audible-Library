@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Enemies abound, within and without. The newest foe Aden had to face only showed that it's time for the kid gloves to come off.</p> <p>Aden will have to call on all of his bonds and gather every ally he can if they are to win.</p> <p>One way or the other the shadow will fall.</p>"; 
