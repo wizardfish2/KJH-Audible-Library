@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>The Complete Series.</b></p> <p>Transported to a land of myth and magic, Nolan scrambles to adjust in a realm where he contains magic. Of course, some lovely locals are in desperate need of a savior as the vile ratkin invade. Destined to unleash his power upon the wicked, he may just save some damsels along the way.</p>"; 
