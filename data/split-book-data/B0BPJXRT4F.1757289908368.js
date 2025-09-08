@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Yonderton is secure. Law and order have been restored.</b></p> <p>But this is only a tiny corner of the world on the western frontier. Rob's family is growing but so too is the world around him.</p> <p>Now, he will have to explore the untamed lands and learn the secret behind the beast waves.</p>"; 
