@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Book two of a cozy fantasy LitRPG series that proves that even in the quietest lives, the most dramatic things happen. A recipe gone awry because you lack one important ingredient and you need to make this cake for someone you love for their birthday, which happens to be the next day. Low-stakes? Nah.</p>"; 
