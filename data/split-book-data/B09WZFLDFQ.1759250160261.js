@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>What is the difference between ignorance and stupidity?</p> <p>Zaena's story continues as she continues to learn that her knowledge of humanity is closer to the twentieth than the present day twenty-first century.</p> <p>She's got attitude, magic, and a sacred armor pendant and she needs to save her people!</p>"; 
