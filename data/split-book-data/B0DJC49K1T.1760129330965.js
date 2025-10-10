@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In a violent world, peace always comes at a cost.</p> <p>And to pay for this expansive commodity, to give those he cares about a chance, Jack has to step up... Even if it means doing things he would have never imagined.</p> <p>For Jack, this is only the beginning of his descent... into a true Angel of War.</p>"; 
