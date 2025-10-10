@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Passing through the Vampire Gate, Elorion enters the true heart of the Underworld for the first time. </b></p> <p>The sooner he completes his mission, the sooner he and the girls can return home. The task is impossible at his current level, so he follows the lich down the only viable path. A path laden with bodies and blood.</p>"; 
