@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Book 3 of an action-packed LitRPG apocalypse series about a reincarnated loner turned lightning-thrower. She'll carve out a place for herself in a world changed by a System, conquering zombies, dungeon bosses, and worse, all while fast-traveling on a yacht.</b></p>"; 
