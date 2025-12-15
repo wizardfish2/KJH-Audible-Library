@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The calm before the storm has settled over the capital. Old legends are coming to life in the city's streets.</p> <p>The clan of necromancers is no longer trying to hide.</p> <p>The time has come to show our power. Betrayal will be punished, and the rest will have a difficult choice to make.</p>"; 
