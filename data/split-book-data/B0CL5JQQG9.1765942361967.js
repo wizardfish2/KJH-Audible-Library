@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In the digital age, information controls the world. It can reshape not only how we think, but our very way of life. However, this information is not merely limited to what you see on a computer screen. Within Dale's world, such world-altering information can come from almost everywhere, even from beyond the world itself.</p>"; 

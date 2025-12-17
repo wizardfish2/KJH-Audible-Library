@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In the not too distant future, dinosaurs rule the world.</p> <p>Alan is deposited in a grassy field with all signs of humanity replaced. A few hundred of his peers are given a loincloth, spear, a few tools, and a mission: to integrate and survive... if they're not eaten first.</p>"; 
