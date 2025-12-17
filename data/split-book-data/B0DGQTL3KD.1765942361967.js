@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Mark wanted to clock out of work, like an average guy to have an average night. After a dust storm envelops him, Mark awakes in the mythical land of Lathinia where adventure awaits. Armed with a legendary sword and a very unique mount, he learns there's a skill point system that rules the land.</p>"; 
