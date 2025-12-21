@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The Clash against the Titans ended up in an overwhelming victory for Sol and the Dragons.</p> <p>His time in the Astral realm is soon coming to an end but before that — It’s time to rest and enjoy the fruits of victory.</p>"; 
