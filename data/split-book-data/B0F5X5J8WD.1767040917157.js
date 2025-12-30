@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>What could be better than seeing a family member? How about an old dear friend who has been looking for you? Waldo and Alice might have different opinions on that. But when old familiar faces come calling sometimes a reunion just isn't avoidable.</p>"; 
