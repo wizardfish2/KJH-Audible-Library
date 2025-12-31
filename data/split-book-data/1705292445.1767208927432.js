@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>You cannot murder a person who never existed.</b></p> <p>The story continues with <i>Battle Tested</i>, book four in the Heretic of the Federation series, where the fights explode on Earth and for Dreth.</p> <p>When the beast doesn't get his way, that which remained hidden becomes needed.</p> <p>Perhaps a bit early.</p>"; 
