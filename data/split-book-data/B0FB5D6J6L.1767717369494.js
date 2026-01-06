@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The Seven Seals is making its move.</p> <p>But so is Seth. He will face them down in this final battle to get back to Earth, no matter what.</p> <p>Check out the action-packed finale to the Seth the Abyssal Assassin trilogy!</p>"; 
