@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>More potatoes for the Potato Lord!</p> <p>More workers for the potato plantations!</p> <p>I have mastered the Mage, resisted Temptation, and even learned to brew my own System Cider. But soon the curtain between System zones will fall.</p> <p>What waits behind it? People? People on boars?!</p>"; 
