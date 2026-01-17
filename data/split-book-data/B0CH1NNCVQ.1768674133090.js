@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>It was a regular day when I found my first card. Now, my days are anything but.</b></p> <p>Beautiful women, powerful cards, and guilds who will do anything to kill me and acquire my deck. It's a life beyond my wildest dreams—if I can just survive long enough to enjoy it.</p>"; 
