@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>DJ is an IT support person living in a present day world where most people have some “super” power. His gift helps him remember things about friends and help them. Join him on his journey to develop his power and those around him including the love of his life.</p>"; 
