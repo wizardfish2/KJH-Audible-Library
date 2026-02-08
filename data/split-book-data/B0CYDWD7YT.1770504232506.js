@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>The POTUS has given Unity a green light to start an international manhunt for Psyche.</b></p> <p>Blank paycheck, all the access to the secrets that they need. They're going hell for leather to find out just how to stop the little psycho—but he's got surprises in store for the team, and he's not going down without a fight.</p>"; 

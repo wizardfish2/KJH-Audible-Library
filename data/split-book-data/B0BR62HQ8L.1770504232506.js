@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Book two of an <i>isekai </i>LitRPG adventure about an unexpected hero coming of age in his new home, progressing in power and abilities as he unlocks the secrets of magic and a System that may not be as trustworthy as it seems.</p>"; 
