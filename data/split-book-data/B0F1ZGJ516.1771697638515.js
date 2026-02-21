@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Elorion's eyes are opened as he visits the succubi capital.</b></p> <p>Are they monsters? Victims of an ancient magic? Or are they just misunderstood?</p> <p>War is coming. Lilith's human experiment is finally revealed. What will El and Aeris do when face to face with the real players of the Underworld?</p>"; 
