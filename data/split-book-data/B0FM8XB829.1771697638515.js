@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Book 2 of this unique spin on Apocalyptic LitRPG Adventures. </b><br> <br> Botanists who choose to get teleported into dangerous jungles are very rare, and if Mira can survive, she may just become indispensible to the System itself.</p>"; 
