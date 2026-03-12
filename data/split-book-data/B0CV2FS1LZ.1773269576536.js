@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>More Cards. More Power. More Revelations.</b></p> <p>We've cut Wilson's feet out from under him, but now we've got to take him down once and for all.</p> <p>Arbiters are hiding a dark secret. Will we be able to stop the game that Wilson started in Millbank?</p>"; 

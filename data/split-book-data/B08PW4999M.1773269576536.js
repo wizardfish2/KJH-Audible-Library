@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Scholomance has been saved…for now. But the war with the elder gods is just beginning. </p> <p>Cole and his coven must meet with the High Wicca Court and then prepare their Academy for the next attack. </p> <p>But the elder gods have underestimated just how much Cole wants to see them all dead, and it is a mistake they will pay dearly for. </p>"; 

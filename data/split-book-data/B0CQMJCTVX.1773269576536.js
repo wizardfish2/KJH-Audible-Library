@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>The secret is out, alien attacks haven't slowed, and the SPED has pushed the governments of the world against superheroes.</b></p> <p>Unity goes into hiding to strike at the source of the conspiracy. Meanwhile, we're still on the hunt for Psyche.</p>"; 
