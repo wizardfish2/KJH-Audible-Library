@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>I am Monster Slayer Fifth Class, Baron Alexander Galaxius. I'm still a baron with no barony, lands or family ring.</p> <p>Just like my past life, this one hasn't given me anything on a silver platter. I'll have to use my own strength to create the world I need. Once more . . .</p>"; 
