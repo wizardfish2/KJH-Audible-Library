@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "Twenty years after the discovery of artificial wormholes launches Earth space exploration to unforeseeable heights, Starplex Director Keith Lansing investigates a mysterious vessel that soon threatens the station with intergalactic war. <p><b>BONUS AUDIO:</b> Includes an exclusive introduction written and read by author Robert J. Sawyer.</p>"; 
