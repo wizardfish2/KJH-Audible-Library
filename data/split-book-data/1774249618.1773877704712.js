@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Long before Casmir Dabrowski and Kim Sato leave their world for the epic adventures of the Star Kingdom series, long before they outwit terrorists and mercenaries and do battle on a galactic scale, long before they become best friends and roommates...they have to meet for the first time. This is that story.</p>"; 
