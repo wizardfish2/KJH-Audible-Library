@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Where has the Emperor gone?</p> <p>Who is behind the conspiracy in the Empire?</p> <p>Are outside enemies taking advantage of the situation?</p> <p>And most importantly! Can Alexshhhander pull out all the shhtops and make it through?!</p> <p>You'll find the answers to these questions and many more in this book!</p> <p>Maybe. Or maybe not....</p>"; 
