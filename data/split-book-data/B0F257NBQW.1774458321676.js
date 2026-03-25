@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The clan of necromancers is busy doing what it does best: creating chimeras and killing the spawns of abomination.</p> <p>But others have made a profitable business out of these threats to the world. In addition to mutants, Max Richter must also confront human monsters.</p> <p>Good thing fighting monsters is his favorite pastime.</p>"; 
