@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>With his weddings and honeymoons behind him, it is time for Xeal/Alex to return to his climb to the top, only a new force seems to have other ideas regarding that. In a battle where one's will can only carry them so far, just how far can Xeal/Alex's will carry him, and will he break eternal dominion completely in the process?</p>"; 
