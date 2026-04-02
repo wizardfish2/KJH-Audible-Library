@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>If you thought having magic and guns were cool while everyone else has swords, imagine having robots. Build a battle robot. Kill the bandits terrorizing the land. Find out just how grateful the princess really is.</p>"; 
