@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "After the fall of the American Ayatollahs (as foretold in <i>Stranger in a Strange Land</i>) there is a Second American Revolution; for the first time in human history there is a land with Liberty and Justice for All."; 
