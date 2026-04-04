@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Epic conquest, a stable home, and a growing family to protect!</b></p> <p>While the competition heats up, and war rages, there is more than battle. The heart matters too, and it often reminds Adam of why he fights. With enemies closing in and political turmoil in distant lands on the rise, Adam will have quell the dangers for some stability.</p>"; 
