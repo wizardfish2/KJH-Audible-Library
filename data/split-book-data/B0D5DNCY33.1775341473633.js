@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>I need my manor, I need my family ring, I need my Family, and I need your motorbike . . .</p> <p>My body grows stronger, my spirit levels up, and my old skills haven't gone anywhere. Finally, people I can trust are gathering around me.</p> <p>Mighty enemies? Sure, they exist too. But not for much longer . . .</p>"; 
