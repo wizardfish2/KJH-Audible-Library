@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Old Man Vincent is heading for the top of the World-Tree and beyond in the final installment of the World-Tree Trilogy. To get there, he's going to have to overcome titan-sized bosses, strange new worlds, an army of angels, and a seemingly invincible final boss. </p> <p>And yes, he's looking forward to the challenge.</p>"; 
