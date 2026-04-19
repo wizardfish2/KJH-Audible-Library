@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>I'm Andrew First, leader of the Architects Clan and the city of Sangis. A million-strong horde of zombies will soon reach the borders of our lands. No clan on Earth has so far encountered such a threat. There are few who believe we have a chance here, but I refuse to give up. The Architects will face these zombies, and we will defend our city!</p>"; 
