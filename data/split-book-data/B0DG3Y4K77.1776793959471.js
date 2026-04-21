@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Family manor-check!</p> <p>First Family Sword-present!</p> <p>Pets-a whole menagerie!</p> <p>Enemies-more and more!</p> <p>Friends-some, thank the Code!</p> <p>Money-oops . . . I need more gold!</p> <p>And a Family Guard! And a housekeeper! And a gardener, and . . . Hey, wasn't this world supposed to be my vacation?</p>"; 
