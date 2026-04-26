@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Yesterday, I learned all of Oasis's secrets - or so I thought. As a new danger arises, the long-awaited Birth Day celebration turns into a nightmare, and this time, there may be no escape. </p> <p>In Oasis, nothing is what it seems. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I was sent to this superpowered version of Earth to stop my mentor. Mission accomplished.</p> <p>Now there's a new threat to this place I call home.</p> <p>Neither magic nor superpowers are responsible.</p> <p>It's aliens.</p>"; 
