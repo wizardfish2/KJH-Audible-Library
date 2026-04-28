@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>As autumn progresses, Tav and his band of beautiful women prepare to survive the harsh winter in the Vermont mountains. <br> </p> <p>But nature isn’t the only thing they have to worry about. <br> </p> <p>A group of mountain people have been watching the school, and they plan on taking one of Tav’s people for ransom.</p>"; 

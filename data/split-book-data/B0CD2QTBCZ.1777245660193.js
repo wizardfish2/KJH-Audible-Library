@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Hastur is dead.</b></p> <p>But his armies and generals remain.</p> <p>While the factions struggle to recover from the chaos in the wake of Hastur's influence on the world, the Sects gather in hope of defeating the threat once and for all.</p> <p>In the fires of struggle and war legends are born, and secrets of the Aspects revealed.</p>"; 
