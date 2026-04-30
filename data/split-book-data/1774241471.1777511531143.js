@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>After dealing with the Goblin King, Lucius is unsure how to harness his unlocked power. </b></p> <p>He finds himself in a desperate race to the top as everyone scrambles to master their strange new abilities. </p> <p>The other players are the least of his worries. War is coming. The trials of Freedom have only just begun.</p>"; 
