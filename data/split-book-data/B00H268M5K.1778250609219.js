@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Today the moon - tomorrow the stars. </p> <p><i>The Man Who Sold the Moon</i>: A landmark volume in Heinlein’s magnificent Future History series. </p> <p>D. D. Harriman is a billionaire with a dream: the dream of Space for All Mankind. The method? Anything that works. Maybe, in fact, Harriman goes too far. But he will give us the stars.... </p>"; 
