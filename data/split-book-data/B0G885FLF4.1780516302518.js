@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>The complete series in a single offering!</b></p> <p>A mysterious island, a tribe of lovely monster gals, and a fight for survival.</p> <p>Troy Thunder, ex-US Secret Service, finds himself stuck on a mysterious island with nothing more than a knife and the shirt on his back. To survive, his skills will be put to the test.</p>"; 

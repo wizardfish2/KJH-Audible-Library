@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Under Alan’s leadership, Tribe Grant has become a prosperous society–but to his alien overlords, peace is boring.</b></p> <p>When another tribe murders his friends to earn points from the aliens, Alan must find the culprit and take revenge… without starting a war he can’t win.</p>"; 

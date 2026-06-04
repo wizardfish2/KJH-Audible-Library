@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The time: 200 years after man's first landing on the Moon. There are permanent populations established on the Moon, Venus, and Mars. Outer space inhabitants have formed a new political entity, the Federation, and between the Federation and Earth a growing rivalry has developed. <i>Earthlight</i> is the story of this emerging conflict.</p>"; 
