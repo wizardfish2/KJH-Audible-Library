@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>4 Volumes for a single offering! </b></p> <p>“You hear about these things all the time,” she said, sliding the key into the lock. “But you never get to see them play out.”</p> <p>A man becomes targeted by witches after he inherits some very special real estate.</p>"; 

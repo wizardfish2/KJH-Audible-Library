@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Tav and his team of badass warrior women have new allies, and those allies need them to help contend with even greater dangers.</p> <p>Resources are dwindling, so maintaining control over important ones is a matter of life and death.</p> <p>Especially when the resource is gasoline, and the oil refinery that can provide an unlimited amount.</p>"; 
