@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>I was transported to a world of Cultivation and granted the power to make women into weapons. </b></p> <p>Women who were powerless before I came, but now they are capable of incredible magic. I won’t stop until my arsenal is a thousand strong and every other guild is beneath mine.</p>"; 
