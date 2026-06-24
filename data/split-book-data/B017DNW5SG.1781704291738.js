@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>I’d lived on a starship long enough to value the small sounds the <i>Fox</i> made: the whoosh of air through vents, the bone-deep growl of lift engines, and the reassuring almost-whine that meant not only gravity but that we were moving through subspace under power. Sound meant we were safe and all was well. Silence meant the opposite.... </p>"; 
