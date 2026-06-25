@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Father Zan insists Chao and Huifen venture north.</b></p> <p>Ancient ruins await. A divine spire there stands.</p> <p>Their identities must remain hidden.</p> <p>The Divine Flying Tiger Clan's Trials are in two short years.</p>"; 
