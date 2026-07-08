@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>To the moons!</b></p> <p>Peace. Quiet. Prosperity. Elaine finally has it all. Friends and loving family, a secure place to call home. She's finally able to indulge in passion projects just for fun and sets her eyes on the largest goal of all.</p> <p>Elaine wants to go to the moons.</p>"; 

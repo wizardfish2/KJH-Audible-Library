@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Mason has dealt his first major blow to the Master’s forces.</p> <p>Now, it’s time to siege his fortress and take out his army of minions once and for all.</p> <p>But the war is not all Mason has to deal with.</p> <p>His women have some special news for him, and Nulena has a secret that will rock Mason to his very core.</p>"; 
