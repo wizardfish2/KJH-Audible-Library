@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Jim Marlowe and his strange-looking Martian friend, Willis, are allowed to travel only so far. But one day Willis unwittingly tunes in to a treacherous plot that threatens all the colonists on Mars, and it sets Jim off on a terrifying adventure that could save - or destroy - them all. </p>"; 
