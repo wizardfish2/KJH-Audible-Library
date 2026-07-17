@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Lysander cut his bindings of privilege to seek the ancient power of the dragons in hopes of making a better tomorrow for everyone. He seeks out a likely ally, the beautiful and exotic Astrid. At first wary of his lofty ideals, she becomes not only smitten, but dedicated to his cause. Together, they may very well remake the world.</p>"; 
