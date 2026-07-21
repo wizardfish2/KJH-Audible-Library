@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>The powerful conclusion to the Arcane Cultivator trilogy!</p> <p>Jaden and the Nomadwater Sect have one more shot, the Third Pillar of the Tournament of the Gods.</p> <p>This is their moment.</p>"; 

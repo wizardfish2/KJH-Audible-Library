@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Freed from the dungeon, Tad now has a wider world to explore, even as he is pursued by an enemy intent on using Tad's power for his own ends.</p> <p>More of his forgotten past will be revealed even as he finds out more about his place in the multiverse. New allies and new enemies will appear.</p>"; 

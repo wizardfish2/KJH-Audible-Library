@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The winner of multiple Hugo Awards, Charles Stross is one of the most highly regarded science fiction writers of his time. In <i>The Apocalypse Codex</i>, occasionally hapless British agent Bob Howard tackles a case involving an American televangelist and a supernatural threat of global proportions.</p>"; 
