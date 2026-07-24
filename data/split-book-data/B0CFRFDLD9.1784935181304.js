@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Danzen heads to Diyu in search of the Fatebricks of Sunyata, straight into the belly of the beast.</b></p> <p>Past enemies, demonic family members, and new rivals, the eighth installment of the bestselling Pilgrim series brings this cultivation saga full circle!</p>"; 
