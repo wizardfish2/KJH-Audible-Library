@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Earth is long since dead. On a colony planet, a band of men has gained control of technology, made themselves immortal, and now rule their world as the gods of the Hindu pantheon. Only one dares oppose them: he who was once Siddhartha and is now Mahasamatman. Binder of Demons, Lord of Light.</p>"; 

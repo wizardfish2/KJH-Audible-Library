@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>The end is finally here.</p> <p>The Master, the elven Elite of Nalnora, and the bastard head of House Orrel are all that stand between Mason Flynt and a life of rich and kinky retirement. </p> <p>So, it’s time for the ultimate Flynt Family Massacre. </p>"; 

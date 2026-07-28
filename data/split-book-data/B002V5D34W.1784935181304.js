@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "In the stunning continuation of the epic adventure begun in <i>Hyperion</i>, Simmons returns us to a far future resplendent with drama and invention. <p>On the world of Hyperion, the mysterious Time Tombs are opening. And the secrets they contain mean that nothing - nothing anywhere in the universe - will ever be the same.</p>"; 
