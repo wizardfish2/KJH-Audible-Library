@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>We've found Psyche's network, and we're closing in on him.</b></p> <p>One final push left to bring him to justice and take out the last threat he's posing to Earth.</p> <p>We've aliens behind us, more aliens opposing us, and a frozen hellhole to breach before we can put a bow on this thing.</p> <p><i>Narrated in duet style.</i></p>"; 

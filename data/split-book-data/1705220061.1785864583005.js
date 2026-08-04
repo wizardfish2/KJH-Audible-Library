@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Adventure calls! </b></p> <p>Reality and fantasy finally collide when a new member joins Azure's party. A dangerous encounter with a mimic makes him think twice about touching large chests. And learning magic proves to be a bigger pain than he could have ever imagined.</p>"; 

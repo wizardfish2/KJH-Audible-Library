@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Cross blades and hearts!</b><br> <br> Collected for the first and only time, are these three stories by Kirk Mason!<br> <br> Devour the two interconnected books A Tale of Tail Brushing and Big City Goth GF, and then chase with the standalone, Knight's Bane!</p>"; 
