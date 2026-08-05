@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The Kalu are not a long lost nightmare anymore. They came from the black. They destroyed Rosho. They ravaged Heija. That was just the scouting force. They are coming back.</p> <p>Power those reactors, charge those rail cannons and ready the fighters. The Free Fleet is going to war.</p>"; 
