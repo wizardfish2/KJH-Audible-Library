@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Thomas discovered he was special in a very particular way: by falling through a portal and landing in the middle of a medieval battlefield. He learns that his very existence as a male mage defies one of the core truths of this world: only women can use magic. And yet, his power is real—and unlike anything they’ve ever seen before.</b></p>"; 

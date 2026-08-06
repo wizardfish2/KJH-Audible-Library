@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Using a special ruby, Trevor discovers a fantasy world where powerful men obtain harems, foxy ladies swish their tails, and magic is real. An awesome kicker—he's a ruby mage capable of turning his foes to cinder.</p>"; 
