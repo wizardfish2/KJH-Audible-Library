@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Contains all three books of <i>The Desert Sequence</i>: <i>Desert Runner</i>, <i>Desert Born</i>, and <i>Desert Storm</i>. </p> <p>Follow NPC Maddie on her journey of self-discovery, which takes her through the deadly desert plains to the inner programming that makes her who she is.</p>"; 
