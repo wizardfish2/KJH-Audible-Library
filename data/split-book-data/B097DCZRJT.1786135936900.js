@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>The conclusion to the epic Life Reset saga!</b></p> <p>Insurmountable odds, hidden powers maneuvering behind the scenes, all culminating in a final, titanic clash. The mighty city of Everance lay in the GreenPiece clan’s path, but as Oren soon discovers he’s got even bigger obstacles to overcome before reaching his final goal. </p>"; 

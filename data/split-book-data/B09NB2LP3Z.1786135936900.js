@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>I have two legendary weapons at my disposal: Anna the Scythe and Lyra the Snake Spear.</b></p> <p>If I'm going to face the Hollow Frog Guild and Guildmaster Ji, then I'll need more weapons.</p> <p>And that means I'll be making more women into cultivators.</p>"; 

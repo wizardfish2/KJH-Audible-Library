@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A clan of healers?! Was that even a thing?</p> <p>People thought we were weak and incapable of defending ourselves and our property. Those who wished to do harm swooped down on the clan like vultures.</p> <p>And that was a good thing! More enemies meant more harvest, and more material for my experiments.</p>"; 

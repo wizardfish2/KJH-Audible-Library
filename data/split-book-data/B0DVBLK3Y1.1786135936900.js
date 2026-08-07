@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>One perfectly ordinary day turned into chaos, but it wasn’t all bad. Sure, I had to fight for my life, but I also rescued the darling damsel Sophia and met the legendary adventurer Stormbreaker. That fateful encounter unlocked a rare and mysterious new class: [Runesmith]. To top it off, I earned a spot in the Dungeon Divers Guild.</p>"; 
