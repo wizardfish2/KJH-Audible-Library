@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The final game of the tournament has arrived. And this one is the deadliest of them all. Cole and his coven are ready, though, and Cole has set his sights on expanding his dark harem to include a certain orange-haired witch. And nothing, not even Elder gods, is going to stand in his way.</p>"; 

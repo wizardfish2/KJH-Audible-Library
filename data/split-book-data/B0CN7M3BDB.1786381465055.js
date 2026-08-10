@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The story of sixteen-year-old Alex Sheppard and his friends is drawing to a close.</p> <p>Yet again, Scyth, Alex's character, has to do the impossible.</p> <p>And the day of the battle between his allies and the Children of Kratos marks the end of peace in Disgardium. The world will never be the same again.</p>"; 
