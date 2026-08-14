@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Just as Tav and his team of EMP survivors think they have their side of the mountain secure, a rogue National Guard unit rolls in through the farmlands and begin harassing the team’s new allies. </p> <p>Now the clock is ticking, and Tav and Tara have to stalk the most deadly prey of all in order to save Betty’s granddaughter.</p>"; 
