@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>The System said: \"everything the sun touches is yours!\" Lord Leo's a simple guy, so he took the System's word for it.</p> <p>It's not for nothing that Major is running drills with the new recruits, Third is sharpening his trusty sapper shovel, and boar-riding Peter is digging the earth with a honed hoof.</p> <p>More enemies? More to win!</p>"; 

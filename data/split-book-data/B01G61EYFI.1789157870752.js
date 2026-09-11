@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>When gods fail to keep their promises there's hell to pay. Literally. After a slip of the tongue, godling Vincent Corinthos is obligated to keep his partner, Megan, \"fine\" forever. Enter the Keepers, who fulfill promises for a fee. Vincent agrees to their bargain, but will Megan be the one who pays the price? </p>"; 

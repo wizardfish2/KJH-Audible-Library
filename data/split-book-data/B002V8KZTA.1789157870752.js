@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "Hamilton Felix, the result of generations of genetic selection, finds his life as the ultimate man boring - until a gang of revolutionaries tries to enlist him in their cause."; 

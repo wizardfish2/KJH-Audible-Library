@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>This is a collection of the first three titles in The Descent Series, which are gritty urban fantasy books about an exorcist, a witch, and their battles against the forces of Heaven and Hell. </p>"; 

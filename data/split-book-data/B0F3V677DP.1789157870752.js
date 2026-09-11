@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Kaelan returns with a Rune Sage class, an assassin-in-training and a seasoned paladin at his side. Drakos is still at large, Morvak looms on the horizon, the pyramid is packed with lethal traps, and a legendary artifact could tip the scales. Welcome back to Valorah—where the stakes are divine.</p>"; 

@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><b>Gage, an orphan, has been battling his way through life.</b></p> <p>No one sees him as anything but a lowly commoner until a gentleman offers him an opportunity that he can't refuse.</p> <p><i>This book contains cursing, violence, gore, and unconventional relationships. It's intended for mature listeners. </i></p>"; 

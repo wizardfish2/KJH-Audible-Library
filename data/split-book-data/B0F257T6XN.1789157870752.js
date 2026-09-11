@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>After finding an abandoned, ancient fortress inside a focus, the Richters turn it into their headquarters and a training camp for their new army.</p> <p>It's becoming harder and harder to conceal the truth. A big war is right around the corner.</p>"; 

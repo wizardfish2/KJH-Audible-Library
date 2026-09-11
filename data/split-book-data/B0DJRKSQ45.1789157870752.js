@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Things are ramping up for Dale, and the stakes have never been higher. Watch as he is forced to deal with threats beyond normal comprehension, doing his best to keep his worlds and people safe from the inevitable dangers.</p>"; 

@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><i>Tales from the Dead Man Inn</i> is an anthology set in Alpha World. These collected stories cover well known and loved characters, as well as some lesser seen NPCs.</p> <p>Warning: Contains mature content.</p>"; 
